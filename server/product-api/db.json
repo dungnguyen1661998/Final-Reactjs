@@ -1,0 +1,200 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Fujitsu Scanner S1300i",
+      "price": 13500000,
+      "salePrice": 12050000,
+      "image": "/images/image1.jpg",
+      "categoryName": "Máy Scan",
+      "type": "type 1",
+      "sensor": "Cảm biến hình ảnh 1",
+      "size": "Khổ giấy scan a4",
+      "speed": "10 trang trên giây",
+      "status": false,
+      "promotion": "New"
+    },
+    {
+      "id": "3",
+      "name": "Fujitsu Scanner SP112",
+      "price": 9100000,
+      "salePrice": 8750000,
+      "image": "/images/image3.jpg",
+      "categoryName": "Máy Scan",
+      "type": "type 3",
+      "sensor": "Cảm biến hình ảnh test",
+      "size": "tối đa a2",
+      "speed": "20 trang/ phút",
+      "status": false,
+      "promotion": "Hot"
+    },
+    {
+      "id": "4",
+      "name": "Plustek SmartOffi",
+      "price": 15200000,
+      "salePrice": 13200000,
+      "image": "/images/image4.jpg",
+      "categoryName": "Máy quét",
+      "type": "type 4",
+      "sensor": "Cảm biến hình ảnh 4",
+      "size": "Khổ giấy Scan a8",
+      "speed": "50 trang/ phút",
+      "status": false,
+      "promotion": "Sale Off"
+    },
+    {
+      "id": "5",
+      "name": "Fujitsu Scanner FI-624",
+      "price": 49750000,
+      "salePrice": 41500000,
+      "image": "/images/image5.jpg",
+      "categoryName": "Máy quét",
+      "type": "type 5",
+      "sensor": "Cảm biến hình ảnh SSD",
+      "size": "Tối đa a6",
+      "speed": "30 trang/ phút",
+      "status": false,
+      "promotion": "Sale Off"
+    },
+    {
+      "id": "6",
+      "name": "Plustek SmartOff",
+      "price": 20700000,
+      "salePrice": "",
+      "image": "/images/image6.jpg",
+      "categoryName": "Máy In",
+      "type": "type 5",
+      "sensor": "Cảm biến hình ảnh hồng ngoại",
+      "size": "tối đa b8",
+      "speed": "60 trang/ phút",
+      "status": false,
+      "promotion": "New"
+    },
+    {
+      "name": "SP123456789",
+      "price": "5000",
+      "salePrice": "",
+      "image": "/images/download.jpg",
+      "categoryName": "",
+      "type": "cgfhsdg",
+      "sensor": "sadsa",
+      "khogiayscan": "A1",
+      "speed": "123",
+      "status": true,
+      "promotion": "",
+      "id": "wu6Ilnq"
+    },
+    {
+      "name": "asdhjasdgajhsd",
+      "price": "500",
+      "salePrice": "22",
+      "image": "/assets/img/laptop.png",
+      "categoryName": "Máy Quét",
+      "type": "12",
+      "sensor": "12231",
+      "khogiayscan": "ádsad",
+      "speed": "213321",
+      "status": true,
+      "promotion": "",
+      "id": "ggePHyA"
+    },
+    {
+      "name": "SP004nsd",
+      "price": "323",
+      "salePrice": "1",
+      "image": "/assets/img/laptop3.png",
+      "categoryName": "",
+      "type": "Model 1",
+      "sensor": "asasd",
+      "khogiayscan": "ádsad",
+      "speed": "213132",
+      "status": true,
+      "promotion": "",
+      "id": "Qu-KkzN"
+    },
+    {
+      "name": "sdfkjdshf",
+      "price": "12213",
+      "salePrice": "1212",
+      "image": "/assets/img/laptop.jpg",
+      "categoryName": "",
+      "type": "ádasd",
+      "sensor": "12231",
+      "khogiayscan": "21",
+      "speed": "32",
+      "status": true,
+      "promotion": "",
+      "id": "0aGOacf"
+    },
+    {
+      "name": "test",
+      "price": "123123",
+      "salePrice": "232",
+      "image": "/assets/img/laptop3.jpg",
+      "categoryName": "Máy Quét",
+      "type": "cgfhsdg",
+      "sensor": "sadsa",
+      "khogiayscan": "A1",
+      "speed": "5",
+      "status": "false",
+      "promotion": "Hot",
+      "id": "_kq2ekg"
+    },
+    {
+      "name": "SPasgsahdj",
+      "price": "654523",
+      "salePrice": "5454",
+      "image": "/assets/img/laptop3.png",
+      "categoryName": "Máy Quét",
+      "type": "fdjhgfhdj",
+      "sensor": "12231",
+      "khogiayscan": "A5",
+      "speed": "5465",
+      "status": "false",
+      "promotion": "Hot",
+      "id": 1
+    },
+    {
+      "name": "sdbsdjh",
+      "price": "12123",
+      "salePrice": "121",
+      "image": "/assets/img/bg0.jpg",
+      "categoryName": "",
+      "type": "fdkfjdskj",
+      "sensor": "ksjfhsdkjh",
+      "khogiayscan": "skjhfdskfjh",
+      "speed": "kdsjhfskdjfh",
+      "status": true,
+      "promotion": "",
+      "id": "u4Gsy3g"
+    },
+    {
+      "name": "dfjhgds",
+      "price": "1212",
+      "salePrice": "2131",
+      "image": "",
+      "categoryName": "",
+      "type": "",
+      "sensor": "",
+      "khogiayscan": "",
+      "speed": "",
+      "status": true,
+      "promotion": "",
+      "id": "-5nAgH1"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "tendm": "Máy Scan"
+    },
+    {
+      "id": "2",
+      "tendm": "Máy quét"
+    },
+    {
+      "id": "3",
+      "tendm": "Máy In"
+    }
+  ]
+}
